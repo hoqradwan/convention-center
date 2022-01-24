@@ -7,30 +7,32 @@ li {
 .fa-check {
   color: #3f87f5;
 }
-.white-card-btn{
-    background-color: #FEF5FB ;
-    color: #3F87F5 ;
+.white-card-btn {
+  background-color: #fef5fb;
+  color: #3f87f5;
 }
-.blue-card{
-    background-color: #3F87F5;
-    border-radius: 26px;
-    /* height: 400px; */
+.blue-card {
+  background-color: #3f87f5;
+  border-radius: 26px;
 }
-.blue-card-btn{
-    background-color: white;
-    color: #3F87F5 ;
-   
+.blue-card-badge {
+  z-index: 1;
 }
-.bg-footer{
-  background-color: #0B0D17;
+.blue-card-btn {
+  background-color: white;
+  color: #3f87f5;
+}
+.bg-footer {
+  background-color: #0b0d17;
   height: 300px;
 }
-.bg-link-footer{
+.bg-link-footer {
   background-color: black;
   border: 1px solid white;
   color: white;
   border-radius: 15px;
 }
+
 /* .tick-white{
     color: white;
 } */
