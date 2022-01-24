@@ -1,6 +1,10 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.carousel-btn {
+  background-color: #f39f03;
+  color: black;
+}
 .headings {
   color: #f39f03;
 }
@@ -15,9 +19,11 @@ li {
   color: orange;
 }
 .yellow-card {
-  background-color: #f39f03;
+  background-color: #db8f02;
   border-radius: 26px;
+  color: black;
 }
+
 .yellow-card-badge {
   z-index: 1;
 }
@@ -33,29 +39,5 @@ li {
   border-radius: 15px;
 }
 .bg-contact {
-  /* background-color: turquoise; */
   background-color: #f39f03;
 }
-
-/* .tick-white{
-    color: white;
-} */
-/* colors
-
-header btn text - #3F87F5
-tick marks and btn text - #3F87F5
-card bg - #3F87F5;
-box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
-border-radius: 26px;
-
-card btn bg - #FEF5FB
-or 
-background: #F496D1;
-mix-blend-mode: normal;
-opacity: 0.1;
-border-radius: 24px;
-
-blue-card btn bg - #FFFFFF
-
-tick bg - #EEECF9
-*/
