@@ -21,6 +21,16 @@ li {
     color: #3F87F5 ;
    
 }
+.bg-footer{
+  background-color: #0B0D17;
+  height: 300px;
+}
+.bg-link-footer{
+  background-color: black;
+  border: 1px solid white;
+  color: white;
+  border-radius: 15px;
+}
 /* .tick-white{
     color: white;
 } */
