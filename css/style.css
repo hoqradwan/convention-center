@@ -1,36 +1,40 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.headings {
+  color: #f39f03;
+}
 li {
   list-style: none;
 }
 .fa-check {
-  color: #3f87f5;
+  color: #f39f03;
 }
-.white-card-btn {
-  background-color: #fef5fb;
-  color: #3f87f5;
+.card-btn {
+  background-color: black;
+  color: orange;
 }
-.blue-card {
-  background-color: #3f87f5;
+.yellow-card {
+  background-color: #f39f03;
   border-radius: 26px;
 }
-.blue-card-badge {
+.yellow-card-badge {
   z-index: 1;
 }
-.blue-card-btn {
-  background-color: white;
-  color: #3f87f5;
-}
+
 .bg-footer {
   background-color: #0b0d17;
-  height: 300px;
+  height: 400px;
 }
 .bg-link-footer {
   background-color: black;
   border: 1px solid white;
   color: white;
   border-radius: 15px;
+}
+.bg-contact {
+  /* background-color: turquoise; */
+  background-color: #f39f03;
 }
 
 /* .tick-white{
